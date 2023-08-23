@@ -1,0 +1,64 @@
+.Kuning {
+    background-color: #ffff00;
+}
+
+.Hitam {
+    background-color: #000000;
+}
+
+.Hijau {
+    background-color: #00af50;
+}
+
+.Coklat {
+    background-color: #833d0c;
+}
+
+.Pink {
+    background-color: #ff66ff;
+}
+
+.Biru {
+    background-color: #01b0f1;
+}
+
+.Merah {
+    background-color: #fe0000;
+}
+
+.Putih {
+    background-color: #ffffff;
+}
+
+.Ungu {
+    background-color: #7030a0;
+}
+
+.Biru.Tua {
+    background-color: #0071c0;
+}
+
+.Abu {
+    background-color: #a6a6a6;
+}
+
+.Orange {
+background-color: #ffc000;
+}
+
+.font {
+    color: #ffffff;
+}
+
+.center {
+    text-align: center;
+}
+
+table {
+    width: 700px;
+    margin: auto;
+    table-layout: auto;
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
